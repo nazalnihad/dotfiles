@@ -231,4 +231,4 @@ exec gnome-terminal
 exec_always feh --bg-scale /home/nazal/Downloads/wallpaper.png
 exec_always compton
 
-assign [class="firefox"] $ws2
+assign [class="firefox"] $ws
